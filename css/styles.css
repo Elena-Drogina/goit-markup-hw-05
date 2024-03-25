@@ -611,7 +611,7 @@ position: absolute;
 }
 .modal-close:hover .modal-close-button-icon,
 .modal-close:focus .modal-close-button-icon {
-    fill: #FFF;
+    fill: #FFFFFF;
 }
 .modal-titles {
     font-weight: 500;
@@ -644,7 +644,8 @@ position: absolute;
     margin-bottom: 8px;
 }
 
-.input-form {border: 1px solid rgba(46, 47, 66, 0.4);
+.input-form {
+    border: 1px solid rgba(46, 47, 66, 0.4);
     background-color: transparent;
     border-radius: 4px;
     width: 100%;
@@ -656,7 +657,8 @@ position: absolute;
     color: rgba(46, 47, 66, 0.4);
     margin-bottom: 8px;
     outline: transparent;
-    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);}
+    transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
 
 .input-icon {
     position: absolute;
@@ -735,7 +737,8 @@ textarea::placeholder {
     white-space: nowrap;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
-    overflow: hidden;}
+    overflow: hidden;
+}
 
 .checkbox-text {
     font-size: 12px;
@@ -779,7 +782,7 @@ textarea::placeholder {
     line-height: 1.5;
     letter-spacing: 0.04em;
     text-align: center;
-    color: #fff;
+    color: #FFFFFF;
     border-radius: 4px;
     padding: 16px 32px;
     min-width: 169px;
