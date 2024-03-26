@@ -462,7 +462,6 @@ width: 100%;
 }
 .footer-contact-icon {
     fill: #f4f4fd;
-    margin-left: 16px;
 }
 .footer-contact-link {
     background-color: #4D5AE5;
@@ -559,6 +558,7 @@ width: 100%;
 
 .footer-btn-icon {
     fill: #FFFFFF;
+    margin-left: 16px;
     
 }
 
