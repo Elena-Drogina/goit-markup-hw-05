@@ -512,7 +512,7 @@ width: 100%;
 }
 
 .footer-input {
-    border: 1px solid #fff;
+    border: 1px solid #FFFFFF;
     border-radius: 4px;
     width: 264px;
     height: 40px;
@@ -520,13 +520,16 @@ width: 100%;
     background-color: transparent;
     outline: none;
     padding: 8px 16px;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
 }
 .footer-input::placeholder {
     
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #FFFFFF;
 }
 
 .footer-button {
@@ -620,6 +623,7 @@ width: 100%;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    margin-bottom: 16px;
 }
 
 .form-item-wrap {
